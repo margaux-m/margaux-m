@@ -2,7 +2,7 @@
 
 I'm a full stack developer based in Brussels who also loves UX/UI Design. 
 
-I recently graduated from Le Wagon, Web Development bootcamp. I’m now seeking a full-time role where I can help a company achieve their goals and work alongside senior developers to learn even more and grow as a better developer.
+I recently graduated from Le Wagon, Web Development bootcamp. I will soon start a new position as a backend developer at Nodalview.
 
 - 🔭 I’m currently working on [Móiminteam](https://github.com/margaux-m/moiminteam), a physical preparation app for teams
 
