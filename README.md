@@ -3,12 +3,7 @@
 I'm a full stack developer based in Brussels who also loves UX/UI Design. 
 
 I recently graduated from Le Wagon, Web Development bootcamp. I am now doing an internship as a back-end developer at Nodalview.
-
-- 🔭 I’m currently working on [Móiminteam](https://github.com/margaux-m/moiminteam), a physical preparation app for teams
-
-- 🌱 I’m currently learning **CSS for JavaScript Developers and React**
-
-- 👩‍💻 All of my projects are available at [www.margauxmansanarez.com](www.margauxmansanarez.com)
+👩‍💻 All of my projects are available at [www.margauxmansanarez.com](www.margauxmansanarez.com)
 
 #### Connect with me:
 
