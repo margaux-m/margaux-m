@@ -3,7 +3,7 @@
 I'm a full stack developer based in Brussels who also loves UX/UI Design. 
 
 I recently graduated from Le Wagon, Web Development bootcamp. I am now doing an internship as a back-end developer at Nodalview.
-👩‍💻 All of my projects are available at [www.margauxmansanarez.com](www.margauxmansanarez.com)
+👩‍💻 All of my projects are available at [www.margauxmansanarez.com](www.margauxmansanarez.com).
 
 #### Connect with me:
 
