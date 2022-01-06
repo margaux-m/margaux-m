@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Margaux
 
-I'm a full stack developer based in Brussels who also loves UX/UI Design. 
+I'm a full stack developer with a lot of interest for UX/UI Design. I'm based in Brussels. 
 
-I recently graduated from Le Wagon, Web Development bootcamp. I am now doing an internship as a back-end developer at Nodalview.
+Last year, I graduated from Le Wagon, Web Development bootcamp. I am now working as a Junior Web Developer at Nodalview.
 👩‍💻 All my projects are available at [www.margauxmansanarez.com](www.margauxmansanarez.com).
 
 #### Connect with me:
