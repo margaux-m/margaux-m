@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Margaux
 
-I'm a full stack developer with a lot of interest for UX/UI Design. I'm based in Brussels and working as a Web Engineer at Nodalview.
+I'm a full stack developer with a lot of interest for UX/UI Design. I'm based in Brussels and working as a Software Engineer at Nodalview.
 
 👩‍💻 All my projects are available at [www.margauxmansanarez.com](https://www.margauxmansanarez.com).
 
